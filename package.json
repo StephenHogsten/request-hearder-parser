@@ -1,0 +1,28 @@
+{
+  "name": "@hogdogthegod/project",
+  "version": "1.0.0",
+  "description": "request header parser: I can get the IP address, language and operating system for my browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hogdogthegod/request-hearder-parser.git"
+  },
+  "keywords": [
+    "header",
+    "parser",
+    "project"
+  ],
+  "author": "hogdog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hogdogthegod/request-hearder-parser/issues"
+  },
+  "homepage": "https://github.com/hogdogthegod/request-hearder-parser#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "path": "^0.12.7"
+  }
+}
